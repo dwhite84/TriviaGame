@@ -1,0 +1,59 @@
+body,html {
+    height: 100%;
+    
+} 
+
+ #bg {  
+     
+     background-image: url("http://www.instasayings.com/wp-content/uploads/2017/05/Basketball-4k-ultra-hd-wallpapers-Basketball-HD-Desktop-Background-Download-1.png");
+
+   
+    height: 100%;  
+
+    
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}   
+.jumbotron{
+    opacity: 0.80;
+    filter: alpha(opacity=50);
+    
+}
+
+.answerchoice {
+	border: 1px solid black;
+     border-radius: 5%;
+	width: 40%;
+	color: black;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 20px;
+    background-color: white;
+
+}
+
+#answerblock {
+    text-align: center;
+  
+  }
+  
+#questionblock {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+#reset {
+    visibility: visible;
+  }
+
+.images{
+    height:50px;
+    width: 50px;
+}
+
+.answerImage{
+    height:250px;
+    width: 250px;
+    overflow: hidden;
+}
